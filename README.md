@@ -4,5 +4,5 @@ paste into www folder of wampp
 
 import database
 
-and you're goof to go.
+and you're good to go.
 
